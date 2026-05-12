@@ -7,7 +7,7 @@ import java.util.List;
 public class StudentDAO {
     private String jdbcURL = "jdbc:mysql://localhost:3306/student_db";
     private String jdbcUsername = "root";
-    private String jdbcPassword = "anmol007";
+    private String jdbcPassword = " ";
     private String jdbcDriver = "com.mysql.cj.jdbc.Driver";
 
     public StudentDAO() {
